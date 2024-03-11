@@ -15,3 +15,4 @@ Receive Telegram notifications for detected falls.
 Ensure proper setup of the YOLOv7 repository and model weights.
 Adjust the threshold for fall detection as needed.
 Update the Telegram token and receiver ID for notifications.
+https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-person.pt- download yolov7-w6-person.pt from here.
